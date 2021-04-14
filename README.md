@@ -1,3 +1,2 @@
-# This is my lessons page
-i do some lessons here
-nothing else to see here
+# Lessons:
+14.04.2021 - Угадайка чисел от 1 до 10 с подзказкой должно ли быть число больше или меньше.
